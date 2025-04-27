@@ -9,7 +9,7 @@
 - 🌱 I'm currently learning Rust, Bash, Javascript
 - 👯 I am looking to collaborate in open source projects and in the future in the Linux kernel
 - 💬 Ask me about python, django, linux, electron, React Native
-- 📫 Cómo contactarme: holmanrugama2006@gmail.com
+- 📫 How to contact me: holmanrugama2006@gmail.com
 - ⚡ Random Phrase: If pork ribs were perfect, hot dogs would not exist
 
 # Compiling Laughter: How Humor Keeps the Code Alive
