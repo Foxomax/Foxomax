@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Foxomax</h1>
-<h3 align="center">A passionate fullStack developer from Nicaragua :D</h3>
+<h1 align="center">Hi, I'm Foxomax</h1>
+<h3 align="center">I love the open source and low level programming</h3>
 
 ```
 ; 6502 Assembly - Profile Initialization
@@ -22,6 +22,4 @@ LISTEN:
 DEV_ID:
     .byte "Foxomax", 0  ; Null-terminated string
 ```
-
-I love the low level programming.
 
